@@ -17,7 +17,7 @@ body{font-family:arial;color:#333;}
 .btn-info {
   color: #FFF;
   background-color: #31B0D5;
-  border-color: #269ABC;
+  border-color: #727e81;
 }
 .btn-warning {
   color: #FFF;
@@ -31,13 +31,13 @@ body{font-family:arial;color:#333;}
 }
 
 /* // Jquery */
-body{font: 67.5% Helvetica, Arial, Sans-serif; background:#2c3e50;}
+body{font: 67.5% Helvetica, Arial, Sans-serif; background:#e9f1f8;}
 /*Box sizing stuff*/
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
 /*Font styels*/
 
 h1 {font-weight: normal; font-size:1.6em;}
-h1.callout{color:#FFFFFF; font-size:2em; margin:1em 0;}
+h1.callout{color:#111631; font-size:2em; margin:1em 0;}
 p{font-size: 1.2em; color:#a3a3a3 ; line-height: 1.5;}
 p strong{color:#555555;}
 p a{color:#27ae60; text-decoration:none;}
